@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MultiDisPy",
+    "section": "",
+    "text": "How does biodiversity change across space and through time?\nTwo assemblages can contain the same number of species yet differ in the range of forms, ecological roles, and taxonomic lineages they represent.\nMultiDisPy is a Python package in development for exploring these dimensions together. It brings morphological, taxonomic, functional, and ecological approaches into a common framework for comparing living and fossil assemblages. A phylogenetic component is planned."
+  },
+  {
+    "objectID": "index.html#how-does-multidispy-work",
+    "href": "index.html#how-does-multidispy-work",
+    "title": "MultiDisPy",
+    "section": "How does MultiDisPy work?",
+    "text": "How does MultiDisPy work?\n\n\n\nMultiDisPy workflow linking assemblage, trait and taxonomic data to biodiversity analyses, then to comparisons across space and time.\n\n\nView the workflow at full size"
+  },
+  {
+    "objectID": "index.html#explore-the-framework",
+    "href": "index.html#explore-the-framework",
+    "title": "MultiDisPy",
+    "section": "Explore the framework",
+    "text": "Explore the framework\n\n\n\nMultiDisPy methods grouped by biodiversity dimension\n\n\nView the workflow at full size"
+  }
+]

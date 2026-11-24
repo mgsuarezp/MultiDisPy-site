@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.ipynb
+
+website:
+  title: "MultiDisPy"
+  favicon: images/logo.png
+format:
+  html:
+    theme: cosmo
+    toc: false
+    page-layout: full
